@@ -1,2 +1,2 @@
-# Menu-Tervezi-Alkalmazas
+# Menu-Tervezo-Alkalmazas
 Szakdolgozat
